@@ -277,3 +277,14 @@ color:#ffffff;
     margin: 0 auto;
     left:auto;
 }
+
+/*fix errors*/
+.lb-image {
+    display:none;
+}
+.lb-next {
+    display:none;
+}
+.lb-prev {
+    display:none;
+}
